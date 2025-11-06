@@ -1,3 +1,4 @@
-return {
+local args = {
   "a",
 }
+return args
